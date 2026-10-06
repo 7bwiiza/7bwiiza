@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @7bwiiza
-- 👀 I’m interested in reading and being proficient in Java, html and CSS
-- 🌱 I’m currently learning html.
+- 👀 I’m interested in engineering projects in mechatronics and quality testing, and in web development.
+- 🌱 I’m currently learning UI/UX design
